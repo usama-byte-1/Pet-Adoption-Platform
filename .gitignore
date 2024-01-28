@@ -1,4 +1,4 @@
 /myenv
-/db/*.sqlite3
+*.sqlite3
 *.pyc
 __init__.py
